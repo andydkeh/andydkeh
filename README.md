@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**andydkeh/andydkeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   ### Hi, my name is Angel 👋
+--------------------------------------------------------------------------------------------------------------------
+- 🔭 I’m currently working on BackEnd
+- 🌱 I’m currently learning JavaScript and PHP
+- 💬 Ask me about PostgreSQL
+- 📚 Computer Science Academic
+- 🥊 19 Years
+--------------------------------------------------------------------------------------------------------------------
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
