@@ -1,7 +1,7 @@
    ### Hi, my name is Angel 👋
 --------------------------------------------------------------------------------------------------------------------
 - 🔭 I’m currently working on BackEnd 
-- 🌱 I’m currently learning ABAP
+- 🌱 I’m currently learning RPA
 - 💬 Ask me about PostgreSQL, PHP or JavaScript
 - 📚 Computer Science Academic
 - 🥊 19 Years
