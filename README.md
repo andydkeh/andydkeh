@@ -1,7 +1,7 @@
    ### Hi, my name is Angel 👋
 --------------------------------------------------------------------------------------------------------------------
 - 🔭 I’m currently working on RPA 
-- 💬 We can talk about PostgreSQL, PHP or JavaScript
+- 💬 We can talk about RPA, PostgreSQL or JavaScript
 - 📚 Computer Science Academic
 - 🥊 21 Years
 --------------------------------------------------------------------------------------------------------------------
