@@ -1,9 +1,9 @@
    ### Hi, my name is Angel 👋
 --------------------------------------------------------------------------------------------------------------------
-- 🔭 I’m currently working on RPA 
-- 💬 We can talk about RPA, PostgreSQL or JavaScript
+- 🔭 I'm developing Schedio
+- 💬 We can talk about RPA and data engineering
 - 📚 Computer Science Academic
-- 🥊 21 Years
+- 🥊 22 Years
 --------------------------------------------------------------------------------------------------------------------
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
