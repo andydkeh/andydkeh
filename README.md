@@ -1,7 +1,7 @@
    ### Hi, my name is Angel 👋
 --------------------------------------------------------------------------------------------------------------------
 - 🔭 I'm developing Schedio
-- 💬 We can talk about RPA and data engineering
+- 💬 We can talk about Java, RPA and data engineering
 - 📚 Bachelor’s Degree in Computer Science
 - 🥊 23 Years
 --------------------------------------------------------------------------------------------------------------------
